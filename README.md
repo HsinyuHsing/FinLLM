@@ -4,4 +4,4 @@ Method: Built a UI with Streamlit, integrated Langchain memory mechanism and AI 
 #####
 Results: Offers real-time news analysis and investment recommendations to help users make informed decisions.
 
-https://finllmai.streamlit.app/
+👉 Try FinLLM here: https://finllmai.streamlit.app/
